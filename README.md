@@ -1,6 +1,4 @@
-A Pen created on CodePen.io. Original URL: https://codepen.io/Reniwtz
+# Modelo de Phong usando Interpolação Phong
 
-Deve ser compilado no codepen em conjunto com o seguintes links:
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Reniwtz/pen/WNpOrxj](https://codepen.io/Reniwtz/pen/WNpOrxj).
 
-https://codepen.io/ICG-UFPB/pen/jOmeQvm.js <br>
-https://cdnjs.cloudflare.com/ajax/libs/three.js/r125/three.min.js
